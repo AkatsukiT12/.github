@@ -6,7 +6,7 @@
 
 ### Biomedical Engineering & Software Solutions
 
-> *"A group of Biomechanical Engineering students came together for a course project, and decided to have some fun along the way!"*
+> *"A group of Biomechanical Engineering students came together for a course project, and decided to have some fun along the way"*
 
 ---
 
@@ -20,7 +20,7 @@
 
 <br />
 
-## 📜 Mission Archives (Projects)
+## 📜 Mission Archives (Repositories)
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -34,8 +34,7 @@
 
 <div align="center">
 
-### 🌐 [Visit Our Official Website](https://akatsukit12.github.io)
-
-*"We are the ones who will bring peace... through engineering."*
+### 👥 Want to know who built this?
+### [Click here to Meet the Team](https://akatsukit12.github.io)
 
 </div>
