@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="akatsuki_logo.png" alt="Akatsuki Logo" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/AkatsukiT12/AkatsukiT12.github.io/main/akatsuki_logo.png" alt="Akatsuki Logo" width="150" height="150"/>
 
 # 暁 Akatsuki T12
 
